@@ -1,0 +1,14 @@
+{
+  "name": "latlon-geohash-bobbr",
+  "homepage": "https://github.com/bobbr/latlon-geohash",
+  "version": "1.0.1",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "0db550ba62bfc3214f61f08d3f26b8053e44dd25"
+  },
+  "_source": "https://github.com/bobbr/latlon-geohash.git",
+  "_target": "^1.0.1",
+  "_originalSource": "latlon-geohash-bobbr"
+}

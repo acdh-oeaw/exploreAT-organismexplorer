@@ -1,0 +1,13 @@
+{
+  "name": "crossfilter2",
+  "homepage": "https://github.com/crossfilter/crossfilter",
+  "_release": "v2.0.0-alpha.03",
+  "_resolution": {
+    "type": "tag",
+    "tag": "v2.0.0-alpha.03",
+    "commit": "ac0e2836c785deaba802f2098227147f5af886ec"
+  },
+  "_source": "https://github.com/crossfilter/crossfilter.git",
+  "_target": "v2.0.0-alpha.03",
+  "_originalSource": "crossfilter2"
+}
